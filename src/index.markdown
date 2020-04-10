@@ -4,8 +4,15 @@
 
 layout: home
 title: "Olá Mundo"
-teste: "bla"
+tags: 
+    - jekyll
+    - blog
+    - minimalista
+show_footer: false
+
+
+
+
+
+
 ---
-
-
-gfsd gfds gfs
