@@ -10,9 +10,4 @@ tags:
     - minimalista
 show_footer: false
 
-
-
-
-
-
 ---
